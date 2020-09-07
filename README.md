@@ -1,4 +1,4 @@
 ## MunchIn Recommendation Engine
 
-Data Collection 
-Data pre-processing
+- Data Collection 
+- Data pre-processing
